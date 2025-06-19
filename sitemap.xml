@@ -37,12 +37,22 @@
   </sitemap>
   
   <sitemap>
+    <loc>https://docs-autogrip-machinery.gtmc.cc/ar/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
     <loc>https://docs-autogrip-machinery.gtmc.cc/hi/sitemap.xml</loc>
     
   </sitemap>
   
   <sitemap>
     <loc>https://docs-autogrip-machinery.gtmc.cc/ja/sitemap.xml</loc>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>https://docs-autogrip-machinery.gtmc.cc/ko/sitemap.xml</loc>
     
   </sitemap>
   
